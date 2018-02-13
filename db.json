@@ -1,11 +1,27 @@
 [
-	"activities" : {
+	{
 		"answersFontBoxColor": "#444444",
 		"answersTextAlignament": "left",
 		"answersTextBold": true,
-		"answersTextColor": "#f3f3f3"
+		"answersTextColor": "#f3f3f3",
+		"contactEmail": "luismiguel.ca@canalsondeo.com",
+		"id": 1234
 	},
-	"contactEmail" : "luismiguel.ca@canalsondeo.com",
-	"id" : 1234
+	{
+		"answersFontBoxColor": "#444444",
+		"answersTextAlignament": "left",
+		"answersTextBold": true,
+		"answersTextColor": "#f3f3f3",
+		"contactEmail": "luismiguel.ca@canalsondeo.com",
+		"id": 1234
+	},
+	{
+		"answersFontBoxColor": "#444444",
+		"answersTextAlignament": "left",
+		"answersTextBold": true,
+		"answersTextColor": "#f3f3f3",
+		"contactEmail": "luismiguel.ca@canalsondeo.com",
+		"id": 1234
+	}
 
 ]
